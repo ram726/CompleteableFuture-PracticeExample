@@ -1,7 +1,4 @@
-package demo;
-
-import java.util.Arrays;
-import java.util.List;
+package people;
 
 public class Person
 {

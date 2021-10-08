@@ -1,4 +1,4 @@
-package demo;
+package people;
 
 import java.util.Arrays;
 import java.util.List;
