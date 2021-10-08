@@ -1,0 +1,21 @@
+package org.main.programs;
+public class people.Sample
+{
+	public static boolean check(int number) {
+		System.out.println("t: "+number+"--"+Thread.currentThread());
+		sleep(1000);
+		return true;
+	}
+	public static int transform(int number) {
+		System.out.println("t: "+number+"--"+Thread.currentThread());
+		sleep(1000);
+		return number*1;
+	}
+	public static void printIt(int number) {
+		
+	}
+	public static void main(String[] args) 
+	{
+		
+	}
+}

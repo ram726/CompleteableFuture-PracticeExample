@@ -1,0 +1,12 @@
+
+j	java:S106	"9Replace this use of System.out or System.err by a logger.(ÓøÊ²8‡ŒÞßÂ/HRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ÓøÊ²8ýÏÖßÂ/HRMAJORZ
+CODE_SMELL
+^
+java:S1612%",Replace this lambda with a method reference.(“èÉ½8¦›éßÂ/HRMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ë¿œÀ8¦›éßÂ/HRMAJORZ
+CODE_SMELL
+‰
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8÷¥îßÂ/H RMAJORZBUG
